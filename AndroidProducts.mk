@@ -17,4 +17,4 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_ls980.mk \
     $(LOCAL_DIR)/full_ls980.mk \
-    $(LOCAL_DIR)/omni_ls980.mk
+    $(LOCAL_DIR)/du.mk
